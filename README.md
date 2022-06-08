@@ -1,7 +1,7 @@
 # OS_Final_Project
 운영체제 기말 프로젝트 저장소
 
-개발 기간: 3일
+개발 기간: 3일</br>
 사용한 도구: Virtual Box, Ubuntu, VS code
 
 ## Diagram
